@@ -1,1 +1,41 @@
-bin/
+
+# Build outputs
+
+/bin/
+
+/target/
+
+/out/
+
+*.class
+
+
+
+# Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+
+
+# Gradle
+
+.gradle/
+
+
+
+# OS junk
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Logs
+
+*.log
+
